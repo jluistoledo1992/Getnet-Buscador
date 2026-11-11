@@ -1,0 +1,2 @@
+# Getnet-Buscador
+Terminal Code
